@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 992px){ 
+    .card{
+    align-items: center !important;
+    justify-content: center !important;
+    flex-direction:column !important;
+    text-align: center !important;
+    }
+}
+.card div {
+    align-items: center !important;
+}
